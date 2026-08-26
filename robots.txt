@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://muzammilanalytics.github.io/portfolio/sitemap.xml

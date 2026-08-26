@@ -1,18 +1,12 @@
-# Muzammil Kamran — AI Automation & Performance Marketing Portfolio
+# Muzammil Kamran — role-specific portfolio
 
-Live portfolio: https://muzammilanalytics.github.io/portfolio/
+GitHub Pages structure:
 
-This repository contains my public portfolio for remote international roles across AI automation, marketing automation, performance marketing, growth/GTM systems, measurement/CRO and WordPress + AI implementation.
+- `/` role selector / hub
+- `/performance-marketing/` performance marketing + PPC + analytics
+- `/ai-automation/` AI automation + LLM + n8n
+- `/marketing-automation/` marketing automation + growth operations
+- `/cv/` matching resume pages and PDFs
+- `/assets/proof/` sanitized tracking implementation proof
 
-## Featured case studies
-- AI website sales assistant with lead qualification and human escalation
-- Multi-stage n8n SEO/content automation
-- Multi-brand marketing measurement and reporting automation
-- PPC landing-page and conversion-tracking infrastructure
-- WordPress technical marketing and CRO implementation
-
-## Core stack
-n8n, OpenAI/Claude/Groq APIs, REST APIs, webhooks, Google Ads, Meta Ads, GA4, GTM, Meta Pixel/CAPI, Looker Studio, WordPress, Elementor, HTML/CSS/JS, PHP working knowledge, Python, SQL and Power BI.
-
-## Privacy
-Client credentials, customer PII, private ad-account information, CRM records and API keys are intentionally excluded. Public project links are included only where appropriate.
+All pages are responsive and use a system font stack for reliable Android/iOS/Windows rendering.

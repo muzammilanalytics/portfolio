@@ -1,0 +1,26 @@
+GitHub Pages target structure (repository root):
+
+index.html
+.nojekyll
+404.html
+robots.txt
+sitemap.xml
+assets/site.css
+assets/site.js
+assets/favicon.svg
+assets/proof/*.webp
+performance-marketing/index.html
+ai-automation/index.html
+marketing-automation/index.html
+cv/performance-marketing.html
+cv/performance-marketing.pdf
+cv/ai-automation.html
+cv/ai-automation.pdf
+cv/marketing-automation.html
+cv/marketing-automation.pdf
+
+Expected live URLs:
+https://muzammilanalytics.github.io/portfolio/
+https://muzammilanalytics.github.io/portfolio/performance-marketing/
+https://muzammilanalytics.github.io/portfolio/ai-automation/
+https://muzammilanalytics.github.io/portfolio/marketing-automation/
