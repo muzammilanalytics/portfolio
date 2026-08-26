@@ -1,38 +1,18 @@
-# Muzammil Kamran — Portfolio
+# Muzammil Kamran — AI Automation & Performance Marketing Portfolio
 
-This repository is designed for GitHub Pages.
+Live portfolio: https://muzammilanalytics.github.io/portfolio/
 
-## Required repository root
-The following items must be directly visible in the repository root:
+This repository contains my public portfolio for remote international roles across AI automation, marketing automation, performance marketing, growth/GTM systems, measurement/CRO and WordPress + AI implementation.
 
-- `index.html`
-- `assets/`
-- `.nojekyll`
-- `README.md`
+## Featured case studies
+- AI website sales assistant with lead qualification and human escalation
+- Multi-stage n8n SEO/content automation
+- Multi-brand marketing measurement and reporting automation
+- PPC landing-page and conversion-tracking infrastructure
+- WordPress technical marketing and CRO implementation
 
-Do **not** upload only the ZIP. GitHub Pages needs the extracted files.
+## Core stack
+n8n, OpenAI/Claude/Groq APIs, REST APIs, webhooks, Google Ads, Meta Ads, GA4, GTM, Meta Pixel/CAPI, Looker Studio, WordPress, Elementor, HTML/CSS/JS, PHP working knowledge, Python, SQL and Power BI.
 
-## Publish with GitHub Pages
-1. Upload the extracted files to the `main` branch.
-2. Go to **Settings → Pages**.
-3. Under **Build and deployment**, choose **Deploy from a branch**.
-4. Branch: `main`
-5. Folder: `/ (root)`
-6. Click **Save**.
-7. Wait 1–3 minutes and refresh the Pages settings screen.
-
-For this repository (`muzammilanalytics/portfolio`) the expected public URL is:
-
-`https://muzammilanalytics.github.io/portfolio/`
-
-## Portfolio contents
-The site includes:
-- AI website lead-qualification assistant
-- n8n SEO/content automation
-- multi-brand marketing reporting automation
-- paid traffic → landing page → tracked lead system
-- technical stack and working approach
-- downloadable resume
-
-## Next evidence upgrade
-Add sanitized screenshots or short demo clips for the strongest projects. Never publish API keys, customer PII, private ad account IDs, CRM records, or confidential client data.
+## Privacy
+Client credentials, customer PII, private ad-account information, CRM records and API keys are intentionally excluded. Public project links are included only where appropriate.
